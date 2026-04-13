@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+venv/
+.venv/
+env/
+*.egg-info/
+
+# Environment & Secrets — NEVER COMMIT THESE
+.env
+.env.local
+google-key.json
+*.json.bak
+
+# Databases & Uploads
+*.db
+*.sqlite3
+uploads/
+resumes/
+resume_data.csv
+resume_results.csv
+candidates.db
+
+# Logs & Temp
+*.log
+batch_log.txt
+*.tmp
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
