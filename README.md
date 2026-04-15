@@ -2,6 +2,8 @@
 
 > **Upload your resume. Get an ATS score, personalised job matches, 145 mock interview questions, skill-gap analysis, and emotional support — all in under 30 seconds.**
 
+🎥 **[Watch the Demo Video Here](#)** *(Link coming soon)*
+
 ---
 
 ##  What Makes This Different
@@ -29,6 +31,17 @@ Most career tools are just wrappers around a single LLM API. Clariva is **offlin
 |  **Emotional Support Chatbot** | Career counsellor persona for placement stress and burnout |
 |  **Career Report** | Full report: ATS score + job matches + skill gaps + learning path + mentor feedback letter |
 |  **Batch Upload** | Process 500 student resumes concurrently (for college placements) |
+
+---
+
+## 🛡️ Security Measures
+
+Built with production-grade safety in mind, natively in Python without relying on heavy boilerplate:
+- **Rate Limiting:** IP-based throttling (5 uploads/min) to prevent AI-driven DoS attacks.
+- **XSS Protection:** Strict HTML escaping of resume text to neutralize malicious JS payloads.
+- **Prompt Injection Defense:** Custom blocklist filters preventing "jailbreak" and "ignore previous commands" overrides on the LLM.
+- **Token Exhaustion Caps:** Hard 50,000-character limits to protect memory and strictly cap API token usage.
+- **Security Headers:** Frame denial, strict caching, and nosniff rules implemented on all Flask routes.
 
 ---
 
