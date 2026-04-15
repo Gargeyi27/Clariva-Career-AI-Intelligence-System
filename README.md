@@ -2,7 +2,7 @@
 
 > **Upload your resume. Get an ATS score, personalised job matches, 145 mock interview questions, skill-gap analysis, and emotional support — all in under 30 seconds.**
 
-🎥 **[Watch the Demo Video Here](#)** *(Link coming soon)*
+🎥 **[Watch the Demo Video Here](https://drive.google.com/file/d/1lSiwqJ7Bx3djbnQPuI9XCxPYT2s9lWfw/view?usp=drive_link)**
 
 ---
 
