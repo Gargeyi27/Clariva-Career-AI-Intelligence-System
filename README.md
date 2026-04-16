@@ -2,7 +2,7 @@
 
 > **Upload your resume. Get an ATS score, personalised job matches, 145 mock interview questions, skill-gap analysis, and emotional support — all in under 30 seconds.**
 
-🎥 **[Watch the Demo Video Here](https://drive.google.com/file/d/1lSiwqJ7Bx3djbnQPuI9XCxPYT2s9lWfw/view?usp=drive_link)**
+ **[Watch the Demo Video Here](https://drive.google.com/file/d/1lSiwqJ7Bx3djbnQPuI9XCxPYT2s9lWfw/view?usp=drive_link)**
 
 ---
 
@@ -34,7 +34,7 @@ Most career tools are just wrappers around a single LLM API. Clariva is **offlin
 
 ---
 
-## 🛡️ Security Measures
+##  Security Measures
 
 Built with production-grade safety in mind, natively in Python without relying on heavy boilerplate:
 - **Rate Limiting:** IP-based throttling (5 uploads/min) to prevent AI-driven DoS attacks.
